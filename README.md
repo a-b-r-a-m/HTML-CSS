@@ -1,1 +1,3 @@
-"Simple HTML project, using some CSS. You can read a little about venomous croatian snakes. Mobile phone friendly" 
+Simple HTML project, using some CSS; mobile phone friendly.
+
+You can read a little about venomous croatian snakes. 
